@@ -18,7 +18,7 @@
 ## Hello there! My name is Giovani Diccini, I'm a fullstack web developer from Brazil! 🇧🇷
 
 ##
-### :octocat: Github Stats
+### :octocat: Github Stats :octocat:
 <div align="left">
   <a href="https://github.com/gdiccini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gdiccini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -26,7 +26,7 @@
 </div>
 
 ##
-### 🔧 Languages and Tools
+### 🔧 Languages and Tools 🔧
   
   [<img alt="Node JS" width="108px" src="https://img.shields.io/badge/Node%20Js-black?style=flat&logo=node.js&logoColor=#339933" />][nodeJs]
   [<img alt="Java Script" width="130px" src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=#F7DF1E" />][js]
@@ -44,25 +44,10 @@
   [<img alt="Gnu Bash" width="127px" src="https://img.shields.io/badge/GNU%20Bash-black?style=flat&logo=gnu-bash&logoColor=#4EAA25" />][gnuBash]
 
 ##
-### ☎️ Contact
+### ☎️ Contact ☎️
   
 <div>
  <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:giovani.diccini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/giovani-diccini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-<!--
-**gdiccini/gdiccini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
