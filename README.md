@@ -15,7 +15,8 @@
 [Express]: https://expressjs.com/pt-br/
 <!-- links -->
 
-## Hello there! My name is Giovani Diccini, a fullstack web developer from Brazil! 🇧🇷
+## Hello there! My name is Giovani Diccini, I'm a fullstack web developer from Brazil! 🇧🇷
+
 ##
 ### :octocat: Github Stats
 <div align="left">
