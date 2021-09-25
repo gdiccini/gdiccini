@@ -17,7 +17,7 @@
 
 ## Hello there! My name is Giovani Diccini. I'm a web developer and Engineer from Brazil! 🇧🇷
 ### 😎 About me 😎
-Well, as you already know my name is Giovani and I am a fullstack web developer.
+I'm Giovani, a fullstack web developer with a Materials Engineering background. 
 
 Before starting my journey in programming I graduated in Materials Engineering at the University of São Paulo (USP). At university I had my first contact with codes and I liked it a lot because of the freedom to solve problems, the logic involved and the enormous power of transformation in people's lives.
 
