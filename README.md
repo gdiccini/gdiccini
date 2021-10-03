@@ -13,6 +13,7 @@
 [MySQL]: https://dev.mysql.com/doc/
 [MongoDB]: https://docs.mongodb.com/manual/introduction/
 [Express]: https://expressjs.com/pt-br/
+[Redux]: https://redux.js.org/
 <!-- links -->
 
 ## Hello there! My name is Giovani Diccini. I'm a web developer and Engineer from Brazil! 🇧🇷
@@ -39,6 +40,7 @@ For me, programming is a tool to transform people's lives, and this is my missio
   [<img alt="CSS 3" width="93px" src="https://img.shields.io/badge/CSS%203-black?style=flat&logo=css3&logoColor=blue" />][css3]
   [<img alt="Java Script" width="130px" src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=#F7DF1E" />][js]
   [<img alt="React" width="90px" src="https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=#61DAFB" />][react]
+  [<img alt="Redux" width="90px" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />][Redux]
   [<img alt="Node JS" width="108px" src="https://img.shields.io/badge/Node%20Js-black?style=flat&logo=node.js&logoColor=#339933" />][nodeJs]
   [<img alt="Express" width="109px" src="https://img.shields.io/badge/Express-black?style=flat&logo=Express&logoColor=#4EAA2" />][Express]
   [<img alt="Jest" width="125px" src="https://img.shields.io/badge/Jest%20Code-black?style=flat&logo=jest&logoColor=red" />][jest]
