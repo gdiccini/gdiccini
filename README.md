@@ -16,7 +16,7 @@
 [Redux]: https://redux.js.org/
 <!-- links -->
 
-## Hello there! My name is Giovani Diccini. I'm a web developer and Engineer from Brazil! 🇧🇷
+## Hello there! My name is Giovani Diccini. I'm a Web Developer and Engineer from Brazil! 🇧🇷
 ### 😎 About me 😎
 I'm Giovani, a fullstack web developer with a Materials Engineering background. 
 
